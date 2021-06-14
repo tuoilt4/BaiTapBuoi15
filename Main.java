@@ -21,6 +21,8 @@ public class Main {
                 String hoten[];
                 hoten= new String [n];
                 BaiTapBuoi15.nhapmang(hoten,n);
+                BaiTapBuoi15.sapxep(hoten,n);
+                break;
 
             }
             default:
